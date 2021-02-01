@@ -9,11 +9,11 @@ git clone https://github.com/EZvirgzdsDP1-2/manspirmaisrepo.git # lai noklonetu 
 
 
 
-*git add .
+* git add .
 
-*git commit -m "Veikats izmainas!"
+* git commit -m "Veikats izmainas!"
 
-*git push origin main
+* git push origin main
 
 
 
